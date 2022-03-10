@@ -1,4 +1,4 @@
-# LatentStaceInitialization
+# LatentStateInitialization
 
 This code provides the algorithms to infer the **latent initial conditions** from a sequence of **aggregate noisy observations** of a dynamical systems.
 
