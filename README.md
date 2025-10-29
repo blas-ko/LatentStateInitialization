@@ -1,4 +1,8 @@
 # LatentStateInitialization
+[![DOI](https://img.shields.io/badge/DOI-10.1007/s11071.022.07365.y-blue.svg)](https://doi.org/10.1007/s11071-022-07365-y)
+[![arXiv](https://img.shields.io/badge/arXiv-2109.06825-b31b1b.svg)](https://arxiv.org/abs/2109.06825)
+
+### Overview
 
 This code provides the algorithms to infer the **latent initial conditions** from a sequence of **aggregate noisy observations** of a dynamical systems.
 
